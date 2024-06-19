@@ -76,7 +76,7 @@ function displayGameResult() {
     let newDiv1 = document.createElement("div");
     let newSpan3 = document.createElement("span");
 
-    newSpan3.innerHTML = `축하합니다! ${attempts}번의 시도 후에 맞추셨습니다. 정답은 ${answer}입니다.`;
+    newSpan3.innerHTML = `축하합니다! ${attempts}번의 시도 후에 맞추셨습니다. 정답은 ${answer}입니다.</br>게임을 종료합니다.`;
 
     newDiv1.classList.add("correct-div");
     newDiv1.append(newSpan3);
