@@ -35,7 +35,5 @@
 
 ## 결과
 ### 실행 후 성공 여부가 나타난 사진 스크린 샷
-<img width="800" alt="correct" src="https://github.com/inno-front-w1-1/baseballgame-r1team01/assets/58466648/c1aee4f3-bef1-4868-bfce-f4ca932ef2a2">
-
-
+<img width="800" alt="correct" src="https://github.com/inno-front-w1-1/baseballgame-r1team01/assets/58466648/89800c2c-67bc-4ec9-8095-26d2d50d849d">
 
